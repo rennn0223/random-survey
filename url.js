@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://www.nchu.edu.tw/calendar/',
+	'https://lms2020.nchu.edu.tw',
 ];
