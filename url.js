@@ -8,6 +8,6 @@
 
 
 const urls = [
-	'https://www.nchu.edu.tw/calendar/',
-	'https://lms2020.nchu.edu.tw',
+	'https://www.surveycake.com/s/6AAwy',
+	'https://www.surveycake.com/s/rLY4d',
 ];
